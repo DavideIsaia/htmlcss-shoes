@@ -4,3 +4,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.shoe {
+    background-size: cover;
+    height: 100vh;
+    position:relative;
+}
+
+.s1 {
+    background-color: red;
+}
+
+.s2 {
+    background-color: green;
+}
+
+.s3 {
+    background-color: yellow;
+}
