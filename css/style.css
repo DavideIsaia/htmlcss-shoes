@@ -46,6 +46,19 @@ li {
     text-align: center;
 }
 
+/* box-shadow */
+.menu li a {
+    border-radius: 50%;
+    box-shadow: 2px 6px 9px rgba(0, 0, 0, .4);
+} 
+
+.menu li a:hover,
+.menu li a:active,
+.menu li a:focus {
+    border-radius: 50%;
+    box-shadow: 2px 6px 9px rgba(0, 0, 0, .8);
+}
+
 /* backgrounds */
 .bg {
     position: relative;
